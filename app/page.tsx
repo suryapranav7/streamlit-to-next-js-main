@@ -135,7 +135,7 @@ export default function HomePage() {
       <footer className="border-t border-border py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm text-muted-foreground mb-4">
-            Built with OpenAI + LangChain + Next.js
+          
           </p>
           <div className="flex flex-wrap justify-center gap-2">
             <Badge variant="outline">Adaptive Learning</Badge>
